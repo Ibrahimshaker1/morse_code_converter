@@ -1,0 +1,1 @@
+Each Morse code symbol is formed by a sequence of dits and dahs. The dit duration can vary for signal clarity and operator skill, but for any one message, once established it is the basic unit of time measurement in Morse code.
